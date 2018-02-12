@@ -1,0 +1,5 @@
+com/bloomberg/datagenerator/maven/plugin/csv/TextDocument.class
+com/bloomberg/datagenerator/maven/plugin/GeneratorMojo.class
+com/bloomberg/datagenerator/maven/plugin/csv/CSV.class
+com/bloomberg/datagenerator/maven/plugin/csv/DocumentFactory.class
+com/bloomberg/datagenerator/maven/plugin/csv/Currencies.class
